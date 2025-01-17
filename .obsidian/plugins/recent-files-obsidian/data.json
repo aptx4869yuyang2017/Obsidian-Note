@@ -1,5 +1,10 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "插件清单",
+      "path": "ZTool/插件清单.md"
+    }
+  ],
   "omittedPaths": [],
   "omittedTags": [],
   "updateOn": "file-open",
