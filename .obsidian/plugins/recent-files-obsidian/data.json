@@ -3,6 +3,14 @@
     {
       "basename": "插件清单",
       "path": "ZTool/插件清单.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Callout - Important",
+      "path": "ZTool/Special/Utilities/Templates/Callout - Important.md"
     }
   ],
   "omittedPaths": [],

@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "Mara-Li/obsidian-snippet-downloader",
     "Yaozhuwa/AttachFlow"
   ],
   "pluginSubListFrozenVersion": [],

@@ -30,7 +30,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "",
-    ""
+    "ZTool/Special/Utilities/Templates/Callout - Important.md",
+    "ZTool/Special/Utilities/Templates/Template Idea.md"
   ],
   "startup_templates": [
     ""
